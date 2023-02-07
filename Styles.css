@@ -1,0 +1,494 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.content {
+	width: 1920px;
+	height: 3745px;
+}
+.vector {
+	width: 11.59px;
+	height: 16px;
+	position: absolute;
+	left: 312.21px;
+	top: 51px;
+	cursor: pointer;
+
+}
+.vector:hover {
+	opacity: 50%;
+}
+
+.city {
+	position: absolute;
+	top: 52px;
+	left: 334px;
+	font-family: Inter;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 14px;
+	cursor: pointer;
+}
+.city:hover {
+	opacity: 50%;
+}
+.restangle {
+	position: absolute;
+	top: 55.47px;
+	left: 463px;
+	cursor: pointer;
+}
+.restangle:hover {
+	opacity: 50%;
+}
+.phone {
+	width: 15.97px;
+	height: 16px;
+	position: absolute;
+	left: 530.02px;
+	top: 51px;
+	cursor: pointer;
+}
+.phone:hover {
+	opacity: 50%;
+}
+.number {
+	width: 115px;
+	height: 14px;
+	position: absolute;
+	top: 53px;
+	left: 556px;
+	font-family: Inter;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 14px;
+	cursor: pointer;
+}
+.number:hover {
+	opacity: 50%;
+}
+.storename {
+	position: absolute;
+	left: 869px;
+	width: 183px;
+	height: 32px;
+	top: 24px;
+	font-size: 32px;
+	line-height: 32px;
+	font-family: Prata;
+	font-weight: 400;
+	color: #E1A661;
+	cursor: pointer;
+}
+.storename:hover {
+	opacity: 50%;
+}
+.storeword {
+	font-weight: 700;
+	color: #303030;
+	cursor: pointer;
+}
+.storeword:hover {
+	opacity: 50%;
+}
+.jewellery {
+	position: absolute;
+	left: 872px;
+	top: 62px;
+	font-weight: 300;
+	font-family: Roboto Condensed;
+	font-size: 14px;
+	line-height: 14px;
+	letter-spacing: 0.27em;
+	color: #919191;
+	cursor: pointer;
+}
+.jewellery:hover {
+	opacity: 50%;
+}
+.enter {
+	position: absolute;
+	top: 52px;
+	left: 1281px;
+	font-family: Inter;
+	font-size: 14px;
+	line-height: 14px;
+	color: #303030;
+	cursor: pointer;
+}
+.enter:hover {
+	opacity: 50%;
+}
+.line {
+	position: absolute;
+	left: 1325px;
+	top: 55px;
+	color: #303030;
+}
+
+.registration {
+	position: absolute;
+	left: 1335px;
+	top: 52px;
+	font-family: Inter;
+	font-size: 14px;
+	line-height: 14px;
+	color: #303030;
+	cursor: pointer;
+}
+.registration:hover {
+	opacity: 50%;
+}
+.coolicon {
+	position: absolute;
+	left: 1495.67px;
+	top: 51.5px;
+	cursor: pointer;
+}
+.coolicon:hover {
+	opacity: 50%;
+}
+.ellipse {
+	position: absolute;
+	left: 1508px;
+	top: 42px;
+	cursor: pointer;
+}
+.ellipse:hover {
+	opacity: 50%;
+}
+.twentythree {
+	position: absolute;
+	left: 1511px;
+	top: 46px;
+	color: #FFFFFF;
+	line-height: 10px;
+	font-size: 10px;
+	font-weight: 700;
+	font-family: Inter;
+	cursor: pointer;
+}
+.twentythree:hover {
+	opacity: 50%;
+}
+.line3 {
+	position: absolute;
+	left: 1546px;
+	top: 59px;
+	cursor: pointer;
+}
+.line3:hover {
+	opacity: 50%;
+}
+.line4 {
+	position: absolute;
+	top: 51px;
+	left: 1551px;
+	cursor: pointer;
+}
+.line4:hover {
+	opacity: 50%;
+}
+.line5 {
+	position: absolute;
+	top: 54px;
+	left: 1556px;
+	cursor: pointer;
+}
+.line5:hover {
+	opacity: 50%;
+}
+.rectangle46 {
+	position: absolute;
+	top: 54px;
+	left: 1592px;
+	cursor: pointer;
+}
+.rectangle46:hover {
+	opacity: 50%;
+}
+.rectangle47 {
+	position: absolute;
+	top: 51px;
+	left: 1596px;
+	cursor: pointer;
+}
+.rectangle47:hover {
+	opacity: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.second {
+	width: 1300px;
+	height: 62px;
+	position: absolute;
+	top: 99px;
+	left: 310px;
+	
+}
+.catalog {
+	position: absolute;
+	left: 50px;
+	top: 25px;
+	opacity: 50%;
+	font-family: Inter;
+	font-weight: 500;
+	font-size: 13px;
+	line-height: 13px;
+	color: #303030;
+	cursor: pointer;
+}
+.catalog:hover {
+	opacity: 100%;
+}
+.stock {
+	position: absolute;
+	left: 170px;
+	top: 25px;
+	font-family: Inter;
+	font-weight: 500;
+	font-size: 13px;
+	line-height: 13px;
+	color: #303030;
+	cursor: pointer;
+}
+.stock:hover {
+	opacity: 50%;
+}
+.brands {
+	position: absolute;
+	left: 278px;
+	top: 25px;
+	font-family: Inter;
+	font-weight: 500;
+	font-size: 13px;
+	line-height: 13px;
+	color: #303030;
+	cursor: pointer;
+}
+.brands:hover {
+	opacity: 50%;
+}
+.shops {
+	position: absolute;
+	left: 394px;
+	top: 25px;
+	font-family: Inter;
+	font-weight: 500;
+	font-size: 13px;
+	line-height: 13px;
+	color: #303030;
+	cursor: pointer;
+}
+.shops:hover {
+	opacity: 50%;
+}
+.about-us {
+	position: absolute;
+	left: 530px;
+	top: 25px;
+	font-family: Inter;
+	font-weight: 500;
+	font-size: 13px;
+	line-height: 13px;
+	color: #303030;
+	cursor: pointer;
+}
+.about-us:hover {
+	opacity: 50%;
+}
+.delivery-and-payment {
+	position: absolute;
+	left: 632px;
+	top: 25px;
+	font-family: Inter;
+	font-weight: 500;
+	font-size: 13px;
+	line-height: 13px;
+	color: #303030;
+	cursor: pointer;
+}
+.delivery-and-payment:hover {
+	opacity: 50%;
+}
+.articles {
+	position: absolute;
+	left: 835px;
+	top: 25px;
+	font-family: Inter;
+	font-weight: 500;
+	font-size: 13px;
+	line-height: 13px;
+	color: #303030;
+	cursor: pointer;
+}
+.articles:hover {
+	opacity: 50%;
+}
+.search {
+	position: absolute;
+	left: 1023px;
+	top: 23px;
+	background-image: url("search.svg");
+	background-repeat: no-repeat;
+	height: 25px;
+	width: 24px;
+	border: none;
+	cursor: pointer;
+
+}
+.search:hover {
+	opacity: 50%;
+}
+.search-area {
+	width: 110px;
+	height: 18px;
+	position: absolute;
+	left: 1053px;
+	top: 24px;
+	font-family: Inter;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 14px;
+	color: #A2A2A2;
+	border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.third {
+	width: 1300px;
+	height: 560px;
+	position: absolute;
+	top: 181px;
+	left: 310px;
+	
+}
+.super-discount-60 {
+	position: absolute;
+	left: 126px;
+	top: 176px;
+	width: 208px;
+	height: 20px;
+	font-family: Prata;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 20px;
+	color: #303030;
+	cursor: pointer;
+}
+.super-discount-60:hover {
+	opacity: 50%;
+}
+
+.on-diamonds {
+	position: absolute;
+	left: 126px;
+	top: 226px;
+	width: 491px;
+	height: 50px;
+	font-family: Prata;
+	font-weight: 400;
+	font-size: 50px;
+	line-height: 50px;
+	color: #303030;
+	cursor: pointer;
+}
+.on-diamonds:hover {
+	opacity: 50%;
+}
+.ellipse5{
+	position: absolute;
+	left: 24px;
+	top: 253px;
+	cursor: pointer;
+}
+.ellipse5:hover {
+	opacity: 50%;
+}
+.arrow-1 {
+	position: absolute;
+	left: 43px;
+	top: 280px;
+	cursor: pointer;
+}
+.arrow-1:hover {
+	opacity: 50%;
+}
+.second-ellipse-5 {
+	position: absolute;
+	left: 1222px;
+	top: 241px;
+	cursor: pointer;
+}
+.second-ellipse-5:hover {
+	opacity: 50%;
+}
+.arrow-2 {
+	position: absolute;
+	top: 268px;
+	left: 1241px;
+	cursor: pointer;
+}
+.arrow-2:hover {
+	opacity: 50%;
+}
+.ring {
+	position: absolute;
+	left: 716px;
+	top: 12px;
+	width: 548px;
+	height: 548px;
+	cursor: pointer;
+}
+.ring:hover {
+	opacity: 50%;
+}
+
+.ellipse-2 {
+	position: absolute;
+	left: 632px;
+	top: 528px;
+	cursor: pointer;
+}
+.ellipse-2:hover {
+	opacity: 50%;
+}
+.ellipse-3 {
+	position: absolute;
+	left: 648px;
+	top: 528px;
+	cursor: pointer;
+}
+.ellipse-3:hover {
+	opacity: 50%;
+}
+.ellipse-4 {
+	position: absolute;
+	left: 664px;
+	top: 528px;
+	cursor: pointer;
+}
+.ellipse-4:hover {
+	opacity: 50%;
+}
